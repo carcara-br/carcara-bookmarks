@@ -10,13 +10,14 @@ Utilities Bookmarks List .
 6. [Image Converter for Social Networks.](https://github.com/fromdenisvieira/utilities-bookmarks#6-image-converter-for-social-networks)
 7. [Color Scheme](https://github.com/fromdenisvieira/utilities-bookmarks#7-color-scheme)
 8. [Free Themes and Templates](https://github.com/fromdenisvieira/utilities-bookmarks#8-free-themes-and-templates)
-9. [Development Tutorials](https://github.com/fromdenisvieira/utilities-bookmarks#9-development-tutorials)
+9. [Programming Tutorials](https://github.com/fromdenisvieira/utilities-bookmarks#9-programming-tutorials)
 10. [Remote Jobs](https://github.com/fromdenisvieira/utilities-bookmarks#10-remote-jobs)
 11. [Editors Themes](https://github.com/fromdenisvieira/utilities-bookmarks#11-editors-themes)
 12. [Programming Online Courses](https://github.com/fromdenisvieira/utilities-bookmarks#12-programming-online-courses)
 13. [English Courses](https://github.com/fromdenisvieira/utilities-bookmarks#13-english-courses)
 14. [Choose easy fonts](https://github.com/fromdenisvieira/utilities-bookmarks#14-choose-easy-fonts)
 15. [Collaborative fonts](https://github.com/fromdenisvieira/utilities-bookmarks#15-collaborative-fonts)
+16. [Adobe Photoshop Utilities]
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
@@ -73,8 +74,31 @@ Utilities Bookmarks List .
 - http://www.scoopthemes.com/
 - http://html5up.net/
 
-### 9. Development Tutorials
+### 9. Programming Tutorials
+#### 9.1 HTML
+#### 9.2 CSS
 - [Create Flat UI Design Style Website Now With This Step By Step Tutorial](https://www.youtube.com/watch?v=4M8FDqVie2s)
+#### 9.3 Flexbox CSS
+#### 9.3 SASS
+#### 9.3 Javascript
+#### 9.3 PHP
+#### 9.3 Postgrees
+#### 9.3 Java
+#### 9.3 Ruby
+#### 9.3 JQUERY
+#### 9.4 NodeJS
+#### 9.4 AngularJS
+#### 9.5 Cordova/Phonegap
+#### 9.4 Ionic
+#### 9.5 Polymer
+#### 9.5 ReactJS
+#### 9.6 Joomla
+#### 9.6 Wordpress
+#### 9.6 Prestashop
+#### 9.6 Magento
+#### 9.6 Jekyll
+#### 9.6 Unity
+
 
 ### 10. Remote Jobs
 - https://www.angieslist.com/
@@ -106,3 +130,21 @@ Utilities Bookmarks List .
 
 ### 15. Collaborative fonts
 - http://www.losttype.com/     
+- 
+### 16. Adobe Photoshop Utilities
+#### 16.1 Tutorials
+#### 16.1 Mockups
+- http://store.mockupzone.com/
+- http://www.psddd.co/
+- http://fribbble.com/
+#### 16.2 Plugins
+- [PS plugin to update social networks (cover, avatar, etc.) (not free)](http://socialkit.madebysource.com/)
+
+
+### 16. UI and UX elements reference
+- http://ui-cloud.com/
+
+### 16. Textures
+- http://www.textures.com/
+
+
