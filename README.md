@@ -86,36 +86,36 @@ My Personal Bookmarks List .
 ### 9. Programming Tutorials
 * #### HTML
 * #### CSS
-  -  ##### Frameworks
-  -  http://www.iamsurface.com/
-  - http://www.smaterial.dsuper.nl/
-  - http://bulma.io/
-  - http://hugw.io/bloomcss/
-  - http://milligram.github.io/
-  - http://assemblecss.com/
-  - https://github.com/ethantw/Han
-  - https://github.com/locaweb/locawebstyle
-  - http://mike.works/ember-cli-materialize/
-  - http://nt1m.github.io/material-framework/
-  - http://essence.pearlhq.com/
-  - http://getbootstrap.com/
-  - http://foundation.zurb.com/
-  - http://semantic-ui.com/
-  - http://metroui.org.ua/
-  - http://getuikit.com/
-  - http://purecss.io/
-  - http://getskeleton.com/
-  - https://www.muicss.com/
-  - http://materializecss.com/
-  - http://www.modestgrid.com/
-  - http://spacebase.space150.com/
-  - http://www.amazium.co.uk/
+    - ##### Frameworks
+      -  http://www.iamsurface.com/
+      - http://www.smaterial.dsuper.nl/
+      - http://bulma.io/
+      - http://hugw.io/bloomcss/
+      - http://milligram.github.io/
+      - http://assemblecss.com/
+      - https://github.com/ethantw/Han
+      - https://github.com/locaweb/locawebstyle
+      - http://mike.works/ember-cli-materialize/
+      - http://nt1m.github.io/material-framework/
+      - http://essence.pearlhq.com/
+      - http://getbootstrap.com/
+      - http://foundation.zurb.com/
+      - http://semantic-ui.com/
+      - http://metroui.org.ua/
+      - http://getuikit.com/
+      - http://purecss.io/
+      - http://getskeleton.com/
+      - https://www.muicss.com/
+      - http://materializecss.com/
+      - http://www.modestgrid.com/
+      - http://spacebase.space150.com/
+      - http://www.amazium.co.uk/
 
   - ##### Tutorials
-  - [Create Flat UI Design Style Website Now With This Step By Step Tutorial](https://www.youtube.com/watch?v=4M8FDqVie2s)
+    - [Create Flat UI Design Style Website Now With This Step By Step Tutorial](https://www.youtube.com/watch?v=4M8FDqVie2s)
 
   - ##### Pens
-  - [Page slider - one page](http://codepen.io/jooleearr/pen/gpooKj)
+    - [Page slider - one page](http://codepen.io/jooleearr/pen/gpooKj)
 
 * #### Flexbox CSS
 * #### SASS
@@ -171,14 +171,14 @@ My Personal Bookmarks List .
 - https://www.behance.net/gallery/16522285/Free-Behance-Presentation-Builder    
 
 ### 16. Adobe Photoshop
-  -  #### Tutorials
-  -  #### Mockups
+  - ##### Tutorials
+  - ##### Mockups
       -  http://store.mockupzone.com/
       -  http://www.psddd.co/
       -  http://fribbble.com/
       -  http://medialoot.com/free/
       -  http://freedesignresources.net/
-  -  #### Plugins
+  - ##### Plugins
       -  [PS plugin to update social networks (cover, avatar, etc.) (not free)](http://socialkit.madebysource.com/)
 
 
