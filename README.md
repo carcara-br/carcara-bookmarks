@@ -2,7 +2,7 @@
   <img src="https://github.com/fromdenisvieira/carcara-angular/blob/master/carcara.jpg" width="150">
 </p>
 # Carcará Bookmarks
-Utilities Bookmarks List .
+My Personal Bookmarks List .
 
 ## Index
 1. [Verify Responsive of Website.](https://github.com/fromdenisvieira/utilities-bookmarks#1-verify-responsive-of-website)
