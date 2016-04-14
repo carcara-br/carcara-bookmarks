@@ -84,10 +84,10 @@ My Personal Bookmarks List .
 - http://html5up.net/
 
 ### 9. Programming Tutorials
-* #### HTML
-* #### CSS
+- #### HTML
+- #### CSS
     - ##### Frameworks
-      -  http://www.iamsurface.com/
+      - http://www.iamsurface.com/
       - http://www.smaterial.dsuper.nl/
       - http://bulma.io/
       - http://hugw.io/bloomcss/
@@ -116,27 +116,26 @@ My Personal Bookmarks List .
 
   - ##### Pens
     - [Page slider - one page](http://codepen.io/jooleearr/pen/gpooKj)
-
-* #### Flexbox CSS
-* #### SASS
-* #### Javascript
-* #### PHP
-* #### Postgrees
-* #### Java
-* #### Ruby
-* #### JQUERY
-* #### NodeJS
-* #### AngularJS
-* #### Cordova/Phonegap
-* #### Ionic
-* #### Polymer
-* #### ReactJS
-* #### Joomla
-* #### Wordpress
-* #### Prestashop
-* #### Magento
-* #### Jekyll
-* #### Unity
+- #### Flexbox CSS
+- #### SASS
+- #### Javascript
+- #### PHP
+- #### Postgrees
+- #### Java
+- #### Ruby
+- #### JQUERY
+- #### NodeJS
+- #### AngularJS
+- #### Cordova/Phonegap
+- #### Ionic
+- #### Polymer
+- #### ReactJS
+- #### Joomla
+- #### Wordpress
+- #### Prestashop
+- #### Magento
+- #### Jekyll
+- #### Unity
 
 ### 10. Remote Jobs
 - https://www.angieslist.com/
