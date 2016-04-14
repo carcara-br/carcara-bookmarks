@@ -2,8 +2,12 @@
 Utilities Bookmarks List .
 
 ## Index
-1. [Verify Responsive of Website.](https://github.com/StartPolymer/polymer-starter-kit-plus#1-get-the-code)
-2. 
+1. [Verify Responsive of Website.](https://github.com/fromdenisvieira/utilities-bookmarks#1-verify-responsive-of-website)
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
