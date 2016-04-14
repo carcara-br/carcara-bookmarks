@@ -28,12 +28,12 @@ My Personal Bookmarks List .
 21. [Lorem Ipsum Generators](https://github.com/fromdenisvieira/carcara-bookmarks#21-lorem-ipsum-generators)
 22. [How Much is My Time](https://github.com/fromdenisvieira/carcara-bookmarks#22-how-much-is-my-time)
 
-> ### 1. Verify Responsive of Website
+### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
 - http://design.google.com/resizer/
 - http://lab.maltewassermann.com/viewport-resizer/
 
-> ### 2. Free Images and Videos in high quality
+### 2. Free Images and Videos in high quality
 - https://pixabay.com/
 - https://unsplash.com/
 - https://visualhunt.com
@@ -59,31 +59,31 @@ My Personal Bookmarks List .
 - http://jaymantri.com/
 - https://stock.tookapic.com/photos?filter=free    
 
-> ### 3. Verify support of front-end web technologies on desktop and mobile web browsers.
+### 3. Verify support of front-end web technologies on desktop and mobile web browsers.
 - http://caniuse.com/
 
-> ### 4. Simple image placeholder service
+### 4. Simple image placeholder service
 - http://placehold.it/
 
-> ### 5. Share Code in Real Time
+### 5. Share Code in Real Time
 - https://codeshare.io/
 
-> ### 6. Image Converter for Social Networks.
+### 6. Image Converter for Social Networks.
 - http://sproutsocial.com/landscape
 - http://www.adsvise.com/ (PSD PACKS)
 
-> ### 7. Color Scheme
+### 7. Color Scheme
 - http://paletton.com/
 - http://www.colourlovers.com/
 
-> ### 8. Free Themes and Templates
+### 8. Free Themes and Templates
 - http://bootstrapzero.com/
 - http://www.html5-templates.co.uk/
 - https://www.freshdesignweb.com/
 - http://www.scoopthemes.com/
 - http://html5up.net/
 
-> ### 9. Programming Tutorials
+### 9. Programming Tutorials
 * #### HTML
 * #### CSS
   -  ##### Frameworks
@@ -138,15 +138,15 @@ My Personal Bookmarks List .
 * #### Jekyll
 * #### Unity
 
-> ### 10. Remote Jobs
+### 10. Remote Jobs
 - https://www.angieslist.com/
 - https://weworkremotely.com/
 - https://angel.co/jobs
 
-> ### 11. Editors Themes
+### 11. Editors Themes
 - http://equinusocio.github.io/material-theme/ (Sublime)
 
-> ### 12. Programming Online Courses
+### 12. Programming Online Courses
 - https://www.udacity.com/
 - https://www.coursera.org/
 - https://www.codecademy.com/
@@ -154,7 +154,7 @@ My Personal Bookmarks List .
 - http://neimeg.com/serie/curso-de-css-a-aparencia-importa
 - https://www.adobeknowhow.com/
 
-> ### 13. English Courses
+### 13. English Courses
 - http://www.engvid.com/
 - http://www.learnamericanenglishonline.com/
 - [Mini Expert English Course Contents](https://drive.google.com/file/d/0B9h5i-FDSualZkt0YUhJNmdMODQ/view)
@@ -162,18 +162,15 @@ My Personal Bookmarks List .
 - http://us.twitcasting.tv/go.php
 - https://www.duolingo.com/
 
-> ### 14. Fonts
-Choose Easy Fonts
-- http://wordmark.it/
-Find out what font was used from images
-- https://www.myfonts.com/WhatTheFont/
-Collaborative Fonts
-- http://www.losttype.com/   
+### 14. Fonts
+- Choose Easy Fonts : http://wordmark.it/
+- Find out what font was used from images : https://www.myfonts.com/WhatTheFont/
+- Collaborative Fonts : http://www.losttype.com/   
 
-> ### 15. Poster Presentation Generator Behance
+### 15. Poster Presentation Generator Behance
 - https://www.behance.net/gallery/16522285/Free-Behance-Presentation-Builder    
 
-> ### 16. Adobe Photoshop
+### 16. Adobe Photoshop
   -  #### Tutorials
   -  #### Mockups
       -  http://store.mockupzone.com/
@@ -185,22 +182,22 @@ Collaborative Fonts
       -  [PS plugin to update social networks (cover, avatar, etc.) (not free)](http://socialkit.madebysource.com/)
 
 
-> ### 17. UI and UX Elements Referencies
+### 17. UI and UX Elements Referencies
 - http://ui-cloud.com/
 
-> ### 18. Textures
+### 18. Textures
 - http://www.textures.com/
 
-> ### 19. Drawing Paper Generator
+### 19. Drawing Paper Generator
 - http://gridzzly.com/
 
-> ### 20. Instant iPhone Mockups and Demo Videos
+### 20. Instant iPhone Mockups and Demo Videos
 - https://placeit.net/
 
-> ### 21. Lorem Ipsum Generators
+### 21. Lorem Ipsum Generators
 - http://lipsum.com
 - http://www.dilmesipsum.com.br/
 - http://www.layerhero.com/lorem-ipsum-generator/
 
-> ### 22. How much is my time
+### 22. How much is my time
 - http://www.minhahora.entreoutros.com/
