@@ -127,6 +127,9 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
     - [Page slider - one page](http://codepen.io/jooleearr/pen/gpooKj)
 
 - <h4> Flexbox CSS </h4>
+    - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    - http://www.flexboxdefense.com/ (gamefication)
+    - http://flexboxfroggy.com/
 - <h4> SASS </h4>
 - <h4> Javascript </h4>
 - <h4> PHP </h4>
