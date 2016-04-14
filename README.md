@@ -4,6 +4,10 @@
 # Carcará Bookmarks
 My Personal Bookmarks List .
 
+## About the Name Carcará
+In 2013, serve the Brazilian army through the core of preparation of reserve officers (NPOR) of 59th motorized infantry battalion in Maceió-AL. CARCARÁ was the name given to my squad, which went through a great experience that contributed to my life in many ways and naming this project and others to come is a way to demonstrate his great use to me, but also I hope it is for all to see.
+
+
 ## Index
 1. [Verify Responsive of Website.](https://github.com/fromdenisvieira/carcara-bookmarks#1-verify-responsive-of-website)
 2. [Free Images and Videos in high quality](https://github.com/fromdenisvieira/carcara-bookmarks#2-free-images-and-videos-in-high-quality)
@@ -27,6 +31,11 @@ My Personal Bookmarks List .
 20. [Instant iPhone Mockups and Demo Videos](https://github.com/fromdenisvieira/carcara-bookmarks#20-instant-iphone-mockups-and-demo-videos)
 21. [Lorem Ipsum Generators](https://github.com/fromdenisvieira/carcara-bookmarks#21-lorem-ipsum-generators)
 22. [How Much is My Time](https://github.com/fromdenisvieira/carcara-bookmarks#22-how-much-is-my-time)
+23. [Business Plan Creation](https://github.com/fromdenisvieira/carcara-bookmarks#23-business-plan-creation)
+24. [Resizer for Social Networking](https://github.com/fromdenisvieira/carcara-bookmarks#24-resizer-for-social-networking)
+25. [Design Inspiration](https://github.com/fromdenisvieira/carcara-bookmarks#25-design-inspiration)
+26. [Lists of Free Resources for Designers](https://github.com/fromdenisvieira/carcara-bookmarks#26-lists-of-free-resources-for-designers)
+
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
@@ -171,14 +180,15 @@ My Personal Bookmarks List .
 - https://www.behance.net/gallery/16522285/Free-Behance-Presentation-Builder    
 
 ### 16. Adobe Photoshop
-  - ##### Tutorials
-  - ##### Mockups
+  - <h5> Tutorials </h5>
+  - <h5> Mockups </h5>
       -  http://store.mockupzone.com/
       -  http://www.psddd.co/
       -  http://fribbble.com/
       -  http://medialoot.com/free/
       -  http://freedesignresources.net/
-  - ##### Plugins
+      -  https://www.behance.net/gallery/33873658/Free-Print-Mock-Up-Pack-Demos
+  - <h5> Plugins </h5>
       -  [PS plugin to update social networks (cover, avatar, etc.) (not free)](http://socialkit.madebysource.com/)
 
 
@@ -201,3 +211,23 @@ My Personal Bookmarks List .
 
 ### 22. How much is my time
 - http://www.minhahora.entreoutros.com/
+
+### 23. Business Plan Creation
+- https://leanstack.com/
+
+### 24. Resizer for Social Networking
+- http://sproutsocial.com/landscape
+
+### 25. Design Inspiration
+- http://www.uiparade.com/
+- http://designyoutrust.com/
+- https://dribbble.com/
+- https://br.pinterest.com/
+- http://www.awwwards.com/
+- https://twibfy.com/discover/
+- http://typespiration.com/
+- http://designspiration.net/
+
+### 26. Lists of Free Resources for Designers
+-  [JustARPI](https://s-media-cache-ak0.pinimg.com/564x/0a/68/9f/0a689fbe481c646022372af760ad5482.jpg)
+- http://www.linkzoo.net/
