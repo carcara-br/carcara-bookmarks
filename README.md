@@ -13,7 +13,7 @@ My Personal Bookmarks List .
 6. [Image Converter for Social Networks.](https://github.com/fromdenisvieira/carcara-bookmarks#6-image-converter-for-social-networks)
 7. [Color Scheme](https://github.com/fromdenisvieira/carcara-bookmarks#7-color-scheme)
 8. [Free Themes and Templates](https://github.com/fromdenisvieira/carcara-bookmarks#8-free-themes-and-templates)
-9. [Programming Tutorials](https://github.com/fromdenisvieira/carcara-bookmarks#9-programming-tutorials)
+9. [Programming](https://github.com/fromdenisvieira/carcara-bookmarks#9-programming)
 10. [Remote Jobs](https://github.com/fromdenisvieira/carcara-bookmarks#10-remote-jobs)
 11. [Editors Themes](https://github.com/fromdenisvieira/carcara-bookmarks#11-editors-themes)
 12. [Programming Online Courses](https://github.com/fromdenisvieira/carcara-bookmarks#12-programming-online-courses)
@@ -83,7 +83,7 @@ My Personal Bookmarks List .
 - http://www.scoopthemes.com/
 - http://html5up.net/
 
-### 9. Programming Tutorials
+### 9. Programming
 - <h4> HTML </h4>
 - <h4> CSS </h4>
     - <h5> Frameworks </h5>
