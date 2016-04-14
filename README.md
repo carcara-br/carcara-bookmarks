@@ -78,7 +78,7 @@ My Personal Bookmarks List .
 - http://html5up.net/
 
 ### 9. Programming Tutorials
-#### 9.1 HTML
+#### * HTML
 #### 9.3 CSS
 - [Create Flat UI Design Style Website Now With This Step By Step Tutorial](https://www.youtube.com/watch?v=4M8FDqVie2s)
 
@@ -133,7 +133,7 @@ My Personal Bookmarks List .
 
 ### 15. Collaborative fonts
 - http://www.losttype.com/     
-- 
+-
 ### 16. Adobe Photoshop Utilities
 #### 16.1 Tutorials
 #### 16.1 Mockups
@@ -149,5 +149,3 @@ My Personal Bookmarks List .
 
 ### 16. Textures
 - http://www.textures.com/
-
-
