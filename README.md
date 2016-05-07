@@ -120,9 +120,10 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
       - http://spacebase.space150.com/
       - http://www.amazium.co.uk/
 
-  - <h5> Tutorials </h5>
+  - <h5> Videos </h5>
     - [Create Flat UI Design Style Website Now With This Step By Step Tutorial](https://www.youtube.com/watch?v=4M8FDqVie2s)
     - [Pure CSS Parallax Websites](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
+    - [Arquitetura CSS](https://www.youtube.com/watch?v=q8pqDytjlVc)
 
   - <h5> Pens </h5>
     - [Page slider - one page](http://codepen.io/jooleearr/pen/gpooKj)
