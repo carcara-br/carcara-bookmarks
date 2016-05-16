@@ -35,7 +35,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 24. [Resizer for Social Networking](https://github.com/fromdenisvieira/carcara-bookmarks#24-resizer-for-social-networking)
 25. [Design Inspiration](https://github.com/fromdenisvieira/carcara-bookmarks#25-design-inspiration)
 26. [Lists of Free Resources for Designers](https://github.com/fromdenisvieira/carcara-bookmarks#26-lists-of-free-resources-for-designers)
-
+27. [Verify Website Performance](https://github.com/fromdenisvieira/carcara-bookmarks#27-verify-website-performance)
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
@@ -236,3 +236,6 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 ### 26. Lists of Free Resources for Designers
 -  [JustARPI](https://s-media-cache-ak0.pinimg.com/564x/0a/68/9f/0a689fbe481c646022372af760ad5482.jpg)
 - http://www.linkzoo.net/
+
+### 27. Verify Website Performance
+- https://browserdiet.com/calories/
