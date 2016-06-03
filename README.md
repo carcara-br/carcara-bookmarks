@@ -22,7 +22,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 11. [Editors Themes](https://github.com/fromdenisvieira/carcara-bookmarks#11-editors-themes)
 12. [Programming Online Courses](https://github.com/fromdenisvieira/carcara-bookmarks#12-programming-online-courses)
 13. [English Courses](https://github.com/fromdenisvieira/carcara-bookmarks#13-english-courses)
-14. [Fonts](https://github.com/fromdenisvieira/carcara-bookmarks#14-fonts)
+14. [Typography](https://github.com/fromdenisvieira/carcara-bookmarks#14-typography)
 15. [Poster Presentation Generator for Behance](https://github.com/fromdenisvieira/carcara-bookmarks#15-poster-presentation-generator)
 16. [Adobe Photoshop](https://github.com/fromdenisvieira/carcara-bookmarks#16-adobe-photoshop)
 17. [UI and UX elements Referencies](https://github.com/fromdenisvieira/carcara-bookmarks#17-ui-and-ux-elements-referencies)
@@ -36,7 +36,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 25. [Design Inspiration](https://github.com/fromdenisvieira/carcara-bookmarks#25-design-inspiration)
 26. [Lists of Free Resources for Designers](https://github.com/fromdenisvieira/carcara-bookmarks#26-lists-of-free-resources-for-designers)
 27. [Verify Website Performance](https://github.com/fromdenisvieira/carcara-bookmarks#27-verify-website-performance)
-28. [Wireframes and Prototype](https://github.com/fromdenisvieira/carcara-bookmarks#28-wireframes-and-prototype)
+28. [Wireframes, Prototype and Project Presentation](https://github.com/fromdenisvieira/carcara-bookmarks#28-wireframes-prototype-and-project-presentation)
 29. [Collaborative Mind Mapping](https://github.com/fromdenisvieira/carcara-bookmarks#29-collaborative-mind-mapping)
 
 ### 1. Verify Responsive of Website
@@ -68,7 +68,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - http://deathtothestockphoto.com/
 - http://snapwiresnaps.tumblr.com/
 - http://jaymantri.com/
-- https://stock.tookapic.com/photos?filter=free    
+- https://stock.tookapic.com/photos?filter=free  
+- https://www.pexels.com/
 
 ### 3. Verify support of front-end web technologies on desktop and mobile web browsers.
 - http://caniuse.com/
@@ -86,6 +87,9 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 ### 7. Color Scheme
 - http://paletton.com/
 - http://www.colourlovers.com/
+- https://color.adobe.com/pt/create/color-wheel/
+- https://coolors.co/
+- http://colorhunt.co/
 
 ### 8. Free Themes and Templates
 - http://bootstrapzero.com/
@@ -178,10 +182,15 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - http://us.twitcasting.tv/go.php
 - https://www.duolingo.com/
 
-### 14. Fonts
+### 14. Typography
 - Choose Easy Fonts : http://wordmark.it/
 - Find out what font was used from images : https://www.myfonts.com/WhatTheFont/
 - Collaborative Fonts : http://www.losttype.com/   
+- https://typekit.com/ (adobe creative cloud)
+- https://www.google.com/fonts (web projects) 
+- https://www.fontsquirrel.com/
+- http://fontsinuse.com/
+- http://www.typegenius.com/
 
 ### 15. Poster Presentation Generator Behance
 - https://www.behance.net/gallery/16522285/Free-Behance-Presentation-Builder    
@@ -226,6 +235,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - http://sproutsocial.com/landscape
 
 ### 25. Design Inspiration
+- http://muz.li/join/ ( the best in one place )
 - http://www.uiparade.com/
 - http://designyoutrust.com/
 - https://dribbble.com/
@@ -242,14 +252,27 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 ### 27. Verify Website Performance
 - https://browserdiet.com/calories/
 
-### 28. Wireframes and Prototype
+### 28. Wireframes, Prototype and Project Presentation
 - http://sketchsheets.com/
 - http://www.axure.com/
 - http://www.adobe.com/br/products/experience-design.html
 - https://marvelapp.com/
 - https://www.uxpin.com/
 - https://www.invisionapp.com/
+- https://www.sketchapp.com/
+- http://trakto.io/
 
 ### 29. Collaborative Mind Mapping 
 - https://www.mindmeister.com/
 - https://www.draw.io/
+
+### 30. Icons
+- https://thenounproject.com/
+- https://icons8.com/
+- http://www.flaticon.com/
+- http://fontawesome.io/
+
+### 31. Styleguide
+- http://photoshopetiquette.com/
+- https://frontify.com/styleguide
+- http://hugeinc.github.io/styleguide/pt/
