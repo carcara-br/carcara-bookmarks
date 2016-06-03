@@ -36,6 +36,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 25. [Design Inspiration](https://github.com/fromdenisvieira/carcara-bookmarks#25-design-inspiration)
 26. [Lists of Free Resources for Designers](https://github.com/fromdenisvieira/carcara-bookmarks#26-lists-of-free-resources-for-designers)
 27. [Verify Website Performance](https://github.com/fromdenisvieira/carcara-bookmarks#27-verify-website-performance)
+28. [Wireframes and Prototype](https://github.com/fromdenisvieira/carcara-bookmarks#28-wireframes-and-prototype)
+29. [Collaborative Mind Mapping](https://github.com/fromdenisvieira/carcara-bookmarks#29-collaborative-mind-mapping)
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
@@ -239,3 +241,15 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 
 ### 27. Verify Website Performance
 - https://browserdiet.com/calories/
+
+### 28. Wireframes and Prototype
+- http://sketchsheets.com/
+- http://www.axure.com/
+- http://www.adobe.com/br/products/experience-design.html
+- https://marvelapp.com/
+- https://www.uxpin.com/
+- https://www.invisionapp.com/
+
+### 29. Collaborative Mind Mapping 
+- https://www.mindmeister.com/
+- https://www.draw.io/
