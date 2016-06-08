@@ -38,7 +38,6 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 27. [Verify Website Performance](https://github.com/fromdenisvieira/carcara-bookmarks#27-verify-website-performance)
 28. [Wireframes, Prototype and Project Presentation](https://github.com/fromdenisvieira/carcara-bookmarks#28-wireframes-prototype-and-project-presentation)
 29. [Collaborative Mind Mapping](https://github.com/fromdenisvieira/carcara-bookmarks#29-collaborative-mind-mapping)
-29. [Collaborative Mind Mapping](https://github.com/fromdenisvieira/carcara-bookmarks#29-collaborative-mind-mapping)
 30. [Icons](https://github.com/fromdenisvieira/carcara-bookmarks#30-icons)
 31. [Styleguide](https://github.com/fromdenisvieira/carcara-bookmarks#31-icons)
 32. [Mockups](https://github.com/fromdenisvieira/carcara-bookmarks#32-mockups)
