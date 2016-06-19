@@ -41,6 +41,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 30. [Icons](https://github.com/fromdenisvieira/carcara-bookmarks#30-icons)
 31. [Styleguide](https://github.com/fromdenisvieira/carcara-bookmarks#31-icons)
 32. [Mockups](https://github.com/fromdenisvieira/carcara-bookmarks#32-mockups)
+33. [Marketing Tools](https://github.com/fromdenisvieira/carcara-bookmarks#33-marketing-tools)
 
 
 ### 1. Verify Responsive of Website
@@ -283,3 +284,6 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 
 ### 32. Mockups
 - http://mockuphone.com/
+
+### 33. Marketing Tools
+- http://www.pagsocial.com/
