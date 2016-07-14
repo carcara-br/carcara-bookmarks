@@ -259,6 +259,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 
 ### 27. Verify Website Performance
 - https://browserdiet.com/calories/
+- https://developers.google.com/speed/pagespeed/insights/
+- https://gtmetrix.com/
 
 ### 28. Wireframes, Prototype and Project Presentation
 - http://sketchsheets.com/
