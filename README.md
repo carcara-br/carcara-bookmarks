@@ -44,6 +44,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 33. [Marketing Tools](https://github.com/fromdenisvieira/carcara-bookmarks#33-marketing-tools)
 34. [Image and Pictures Online Editor](https://github.com/fromdenisvieira/carcara-bookmarks#34-image-and-pictures-online-editor)
 
+35. [Sites of Promotions](https://github.com/fromdenisvieira/carcara-bookmarks#35-sites-of-promotions)
+
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
@@ -295,3 +297,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 
 ### 34. Image and Pictures Online Editor
 - https://www.canva.com/
+
+### 35. Sites of Promotions
+- http://www.hardmob.com.br/promocoes
+- https://www.pelando.com.br/
