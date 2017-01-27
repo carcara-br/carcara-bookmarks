@@ -45,7 +45,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 34. [Image and Pictures Online Editor](https://github.com/fromdenisvieira/carcara-bookmarks#34-image-and-pictures-online-editor)
 
 35. [Sites of Promotions](https://github.com/fromdenisvieira/carcara-bookmarks#35-sites-of-promotions)
-36. [CheatSheets](https://github.com/fromdenisvieira/carcara-bookmarks#36-cheatsheets)
+36. [Cheatsheets](https://github.com/fromdenisvieira/carcara-bookmarks#36-cheatsheets)
 
 
 ### 1. Verify Responsive of Website
@@ -303,5 +303,5 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - http://www.hardmob.com.br/promocoes
 - https://www.pelando.com.br/
 
-### 35. CheatSheets
+### 36. CheatSheets
 - https://hackerthemes.com/bootstrap-cheatsheet/
