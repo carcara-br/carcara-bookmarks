@@ -305,3 +305,6 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 
 ### 36. CheatSheets
 - https://hackerthemes.com/bootstrap-cheatsheet/
+- http://yoksel.github.io/flex-cheatsheet/
+
+
