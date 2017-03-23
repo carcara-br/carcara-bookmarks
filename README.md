@@ -47,6 +47,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 36. [Cheatsheets](https://github.com/fromdenisvieira/carcara-bookmarks#36-cheatsheets)
 37. [Fake Data API](https://github.com/fromdenisvieira/carcara-bookmarks#37-fake-data-api)
 38. [Interviews Support](https://github.com/fromdenisvieira/carcara-bookmarks#38-interviews-support)
+39. [SEO](https://github.com/fromdenisvieira/carcara-bookmarks#39-seo)
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
@@ -316,3 +317,6 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 ### 38. Interviews Support
 - https://codility.com/programmers/lessons/1-iterations/
 - https://www.interviewcake.com/
+
+### 39. SEO
+- http://quinalha.me/seotopper/
