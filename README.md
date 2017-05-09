@@ -56,6 +56,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - http://ami.responsivedesign.is
 - http://design.google.com/resizer/
 - http://lab.maltewassermann.com/viewport-resizer/
+- http://sizzy.co/
 
 ### 2. Free Images and Videos in high quality
 - https://pixabay.com/
