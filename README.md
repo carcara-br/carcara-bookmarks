@@ -49,6 +49,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 38. [Interviews Support](https://github.com/fromdenisvieira/carcara-bookmarks#38-interviews-support)
 39. [SEO](https://github.com/fromdenisvieira/carcara-bookmarks#39-seo)
 40. [Share Links](https://github.com/fromdenisvieira/carcara-bookmarks#40-share-links)
+41. [Free Books](https://github.com/fromdenisvieira/carcara-bookmarks#41-free-books)
 
 
 
@@ -331,3 +332,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 
 ### 40. Share Links
 - https://linkfire.com/#/
+
+### 41. Free Books
+- http://it-ebooks.info/
+- http://www.wowebook.co/
+- http://lelivros.love/
