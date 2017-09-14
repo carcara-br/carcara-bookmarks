@@ -117,7 +117,41 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - http://html5up.net/
 
 ### 9. Programming
+- Frontend Development
+  - PROJECT Build a Portfolio Site
+    - [Intro to HTML and CSS](https://www.udacity.com/course/ud304)
+    - [Responsive Web Design Fundamentals](https://www.udacity.com/course/ud893)
+    - [Responsive Images](https://www.udacity.com/course/ud882)
+  - PROJECT Interactive Resume
+    - [JavaScript Basics](https://www.udacity.com/course/ud804)
+    - [Intro to jQuery](https://www.udacity.com/course/ud245)
+  - PROJECT Classic Arcade Game Clone
+    - [Object-Oriented JavaScript](https://www.udacity.com/course/ud015)
+    - [HTML5 Canvas](https://www.udacity.com/course/ud292)
+  - PROJECT Website Optimization
+    - [Website Performance Optimization](https://www.udacity.com/course/ud884)
+  - PROJECT Neighborhood Map
+    - [Intro to AJAX](https://www.udacity.com/course/ud110)
+    - [JavaScript Design Patterns](https://www.udacity.com/course/ud989)
+  - PROJECT Feed Reader Testing
+    - [JavaScript Testing](https://www.udacity.com/course/ud549)
+  - Additional Projects
+    - [How to Use Git and GitHub](https://www.udacity.com/course/ud775)
+- Terminal
+  - https://visie.mautic.visie.com.br/curso-gratis-de-terminal-do-linux
+- Webdesign
+  - [Create Bootstrap Landing Page + Survey + Email marketing](https://code4startup.com/projects/zero-create-landing-page-mail-chimp-woofu-viral-marketing-strategies)
 - CSS 
+  - [Arquitetura CSS](https://www.youtube.com/watch?v=q8pqDytjlVc)
+  - Flexbox
+    - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    - http://www.flexboxdefense.com/ (gamefication)
+    - http://flexboxfroggy.com/
+    - http://callmenick.com/post/flexbox-examples
+    - [CSS FlexBox Essentials](https://www.youtube.com/watch?v=G7EIAgfkhmg)
+    - [CSS3 Flexbox Flexible Box Layouts Flex Website](https://www.youtube.com/watch?v=rSt_RTo8Gqs)
+    - [CSS FlexBox Practical Examples](https://www.youtube.com/watch?v=H1lREysgdgc)
+    - [Learn CSS3 Flexbox](https://www.youtube.com/watch?v=sewV3LsmoXI)
   - Frameworks 
     - http://www.iamsurface.com/
     - http://www.smaterial.dsuper.nl/
@@ -146,16 +180,16 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
     - [Create Flat UI Design Style Website Now With This Step By Step Tutorial](https://www.youtube.com/watch?v=4M8FDqVie2s)
     - [Pure CSS Parallax Websites](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
     - [Arquitetura CSS](https://www.youtube.com/watch?v=q8pqDytjlVc)
-
+    - [How to build a responsive website from start to finish](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
+    - [Design + Code My Personal Website](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A)
   - Pens 
     - [Page slider - one page](http://codepen.io/jooleearr/pen/gpooKj)
-
-- Flexbox CSS 
-  - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-  - http://www.flexboxdefense.com/ (gamefication)
-  - http://flexboxfroggy.com/
+    
 - SASS 
 - Javascript 
+  - Courses
+    - https://watchandcode.com/p/practical-javascript
+    - https://www.udemy.com/programming-in-javascript/?dtcode=fDVUMsV2CYv9
 - PHP 
 - Postgrees 
 - Java 
@@ -163,10 +197,16 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - JQUERY 
 - NodeJS 
 - AngularJS 
+  - [Making a Pokemon App w/ the MEAN Stack](https://www.youtube.com/watch?v=y8RWHhkfuh4)
+  - [MEAN Stack Intro: Build an end-to-end application](https://www.youtube.com/watch?v=AEE7DY2AYvI)
+  - [AngularJs Unit Testing with Jasmine](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDbh2i6knU4FybWA63PPbVi)
+  - [Build an MVP with AngularJS + FireBase by cloning TaskRabbit](https://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy)
 - Cordova/Phonegap 
 - Ionic 
 - Polymer 
-- ReactJS 
+- ReactJS
+  - [Redux+React Tutorial Series](https://www.youtube.com/playlist?list=PLcfAVClOb1Bh9TrHOAfAiB60ohBszIn3h)
+  - [Build a Twitter Clone with REACTJS](https://www.udemy.com/draft/608724/learn/v4/#/)
 - Joomla 
 - Wordpress
   - [Registro de Usuarios em Wordpress](https://www.youtube.com/watch?v=YRtwwN9npk8)
@@ -228,6 +268,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 
 ### 16. Adobe Photoshop
   - Tutorials 
+    - [How to Design a Website in Photoshop CC 2015](https://www.youtube.com/watch?v=J4TSooiuXMA&list=PLttcEXjN1UcGpnbQPBOmXssvMRTBvFELJ)
+    - 
   - Mockups 
       -  http://store.mockupzone.com/
       -  http://www.psddd.co/
