@@ -194,6 +194,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - Postgrees 
 - Java 
 - Ruby 
+  - http://why.carlosbrando.com/
 - JQUERY 
 - NodeJS 
 - AngularJS 
@@ -226,6 +227,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - Magento 
 - Jekyll 
 - Unity 
+  - http://www.walkerboystudio.com/wbstudio/learn-unity/
+  - [Project 5: Mario 3D](http://www.walkerboystudio.com/wbstudio/project-3d-mario/)
 - Android 
     - [Android Studio Tips](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault/wiki)
 
