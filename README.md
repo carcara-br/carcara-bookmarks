@@ -51,6 +51,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 39. [SEO](https://github.com/fromdenisvieira/carcara-bookmarks#39-seo)
 40. [Share Links](https://github.com/fromdenisvieira/carcara-bookmarks#40-share-links)
 41. [Free Books](https://github.com/fromdenisvieira/carcara-bookmarks#41-free-books)
+42. [Social Media Management](https://github.com/fromdenisvieira/carcara-bookmarks#42-social-media-management)
+43. [Freelance Tips](https://github.com/fromdenisvieira/carcara-bookmarks#43-freelancer-tipsa)
 
 
 
@@ -116,31 +118,30 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 
 ### 9. Programming
 - CSS 
-    - Frameworks 
-      - http://www.iamsurface.com/
-      - http://www.smaterial.dsuper.nl/
-      - http://bulma.io/
-      - http://hugw.io/bloomcss/
-      - http://milligram.github.io/
-      - http://assemblecss.com/
-      - https://github.com/ethantw/Han
-      - https://github.com/locaweb/locawebstyle
-      - http://mike.works/ember-cli-materialize/
-      - http://nt1m.github.io/material-framework/
-      - http://essence.pearlhq.com/
-      - http://getbootstrap.com/
-      - http://foundation.zurb.com/
-      - http://semantic-ui.com/
-      - http://metroui.org.ua/
-      - http://getuikit.com/
-      - http://purecss.io/
-      - http://getskeleton.com/
-      - https://www.muicss.com/
-      - http://materializecss.com/
-      - http://www.modestgrid.com/
-      - http://spacebase.space150.com/
-      - http://www.amazium.co.uk/
-
+  - Frameworks 
+    - http://www.iamsurface.com/
+    - http://www.smaterial.dsuper.nl/
+    - http://bulma.io/
+    - http://hugw.io/bloomcss/
+    - http://milligram.github.io/
+    - http://assemblecss.com/
+    - https://github.com/ethantw/Han
+    - https://github.com/locaweb/locawebstyle
+    - http://mike.works/ember-cli-materialize/
+    - http://nt1m.github.io/material-framework/
+    - http://essence.pearlhq.com/
+    - http://getbootstrap.com/
+    - http://foundation.zurb.com/
+    - http://semantic-ui.com/
+    - http://metroui.org.ua/
+    - http://getuikit.com/
+    - http://purecss.io/
+    - http://getskeleton.com/
+    - https://www.muicss.com/
+    - http://materializecss.com/
+    - http://www.modestgrid.com/
+    - http://spacebase.space150.com/
+    - http://www.amazium.co.uk/
   - Videos 
     - [Create Flat UI Design Style Website Now With This Step By Step Tutorial](https://www.youtube.com/watch?v=4M8FDqVie2s)
     - [Pure CSS Parallax Websites](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
@@ -150,9 +151,9 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
     - [Page slider - one page](http://codepen.io/jooleearr/pen/gpooKj)
 
 - Flexbox CSS 
-    - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-    - http://www.flexboxdefense.com/ (gamefication)
-    - http://flexboxfroggy.com/
+  - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  - http://www.flexboxdefense.com/ (gamefication)
+  - http://flexboxfroggy.com/
 - SASS 
 - Javascript 
 - PHP 
@@ -351,3 +352,13 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - http://www.wowebook.co/
 - http://lelivros.love/
 - https://t.me/FreePacktPubDaily [ Telegram Group ]
+
+### 42. Social Media Management
+- http://everypost.me/pt/
+- https://buffer.com/
+- https://hootsuite.com/pt/
+- https://www.scup.com/pt/
+- http://pt.sproutsocial.com/
+
+### 43. Freelancer Tips
+- http://dev.rbtech.info/o-processo-de-criacao-de-sites-briefing-com-o-cliente/
