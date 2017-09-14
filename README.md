@@ -115,9 +115,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - http://html5up.net/
 
 ### 9. Programming
-- <h4> HTML </h4>
-- <h4> CSS </h4>
-    - <h5> Frameworks </h5>
+- CSS 
+    - Frameworks 
       - http://www.iamsurface.com/
       - http://www.smaterial.dsuper.nl/
       - http://bulma.io/
@@ -142,39 +141,52 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
       - http://spacebase.space150.com/
       - http://www.amazium.co.uk/
 
-  - <h5> Videos </h5>
+  - Videos 
     - [Create Flat UI Design Style Website Now With This Step By Step Tutorial](https://www.youtube.com/watch?v=4M8FDqVie2s)
     - [Pure CSS Parallax Websites](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
     - [Arquitetura CSS](https://www.youtube.com/watch?v=q8pqDytjlVc)
 
-  - <h5> Pens </h5>
+  - Pens 
     - [Page slider - one page](http://codepen.io/jooleearr/pen/gpooKj)
 
-- <h4> Flexbox CSS </h4>
+- Flexbox CSS 
     - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
     - http://www.flexboxdefense.com/ (gamefication)
     - http://flexboxfroggy.com/
-- <h4> SASS </h4>
-- <h4> Javascript </h4>
-- <h4> PHP </h4>
-- <h4> Postgrees </h4>
-- <h4> Java </h4>
-- <h4> Ruby </h4>
-- <h4> JQUERY </h4>
-- <h4> NodeJS </h4>
-- <h4> AngularJS </h4>
-- <h4> Cordova/Phonegap </h4>
-- <h4> Ionic </h4>
-- <h4> Polymer </h4>
-- <h4> ReactJS </h4>
-- <h4> Joomla </h4>
-- <h4> Wordpress </h4>
-- <h4> Prestashop </h4>
-- <h4> Magento </h4>
-- <h4> Jekyll </h4>
-- <h4> Unity </h4>
-- <h4> Android </h4>
-    - [Android Studio Tips](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault/wiki),
+- SASS 
+- Javascript 
+- PHP 
+- Postgrees 
+- Java 
+- Ruby 
+- JQUERY 
+- NodeJS 
+- AngularJS 
+- Cordova/Phonegap 
+- Ionic 
+- Polymer 
+- ReactJS 
+- Joomla 
+- Wordpress
+  - [Registro de Usuarios em Wordpress](https://www.youtube.com/watch?v=YRtwwN9npk8)
+  - Plugins
+    - https://themes.tielabs.com/sahifa/homepage-timeline-layout/
+    - https://flagrantdisregard.com/feedburner/
+    - http://oportunidadedigital.net/plugins-wordpress-essenciais/
+    - https://wordpress.org/plugins/social-count-plus/
+    - https://wordpress.org/plugins/google-analytics-for-wordpress/
+    - https://wordpress.org/plugins/all-in-one-seo-pack/
+    - https://wordpress.org/plugins/google-sitemap-generator/
+    - https://wordpress.org/plugins/wp-db-backup/
+    - https://wordpress.org/plugins/widget-logic/
+    - http://www.webmaster.pt/plugins-wordpress-para-conteudo-pago-membros-16886.html
+    - https://wordpress.org/plugins/wp-google-maps/
+- Prestashop 
+- Magento 
+- Jekyll 
+- Unity 
+- Android 
+    - [Android Studio Tips](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault/wiki)
 
 ### 10. Remote Jobs
 - https://www.angieslist.com/
@@ -214,15 +226,15 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - https://www.behance.net/gallery/16522285/Free-Behance-Presentation-Builder    
 
 ### 16. Adobe Photoshop
-  - <h5> Tutorials </h5>
-  - <h5> Mockups </h5>
+  - Tutorials 
+  - Mockups 
       -  http://store.mockupzone.com/
       -  http://www.psddd.co/
       -  http://fribbble.com/
       -  http://medialoot.com/free/
       -  http://freedesignresources.net/
       -  https://www.behance.net/gallery/33873658/Free-Print-Mock-Up-Pack-Demos
-  - <h5> Plugins </h5>
+  - Plugins 
       -  [PS plugin to update social networks (cover, avatar, etc.) (not free)](http://socialkit.madebysource.com/)
 
 
