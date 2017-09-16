@@ -52,8 +52,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 40. [Share Links](https://github.com/fromdenisvieira/carcara-bookmarks#40-share-links)
 41. [Free Books](https://github.com/fromdenisvieira/carcara-bookmarks#41-free-books)
 42. [Social Media Management](https://github.com/fromdenisvieira/carcara-bookmarks#42-social-media-management)
-43. [Freelance Tips](https://github.com/fromdenisvieira/carcara-bookmarks#43-freelancer-tipsa)
-
+43. [Freelancer Tips](https://github.com/fromdenisvieira/carcara-bookmarks#43-freelancer-tips)
+44. [Create Logos](https://github.com/fromdenisvieira/carcara-bookmarks#44-create-logos)
 
 
 ### 1. Verify Responsive of Website
@@ -407,3 +407,6 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 
 ### 43. Freelancer Tips
 - http://dev.rbtech.info/o-processo-de-criacao-de-sites-briefing-com-o-cliente/
+
+### 44. Create Logos
+- https://studio.tailorbrands.com/
