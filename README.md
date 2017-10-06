@@ -193,9 +193,17 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - PHP 
 - Postgrees 
 - Java 
+  - Courses
+    - http://www.learnjavaonline.org/
+    - https://www.udemy.com/java-tutorial/
+    - http://docs.oracle.com/javase/tutorial/index.html
 - Ruby 
   - http://why.carlosbrando.com/
-- JQUERY 
+- JQUERY
+  - Courses
+    - https://www.udacity.com/course/intro-to-jquery--ud245
+    - http://try.jquery.com/
+    - https://www.edx.org/course/introduction-jquery-microsoft-dev208x-3
 - NodeJS 
 - AngularJS 
   - [Making a Pokemon App w/ the MEAN Stack](https://www.youtube.com/watch?v=y8RWHhkfuh4)
