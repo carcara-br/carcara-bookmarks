@@ -277,9 +277,6 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 ### 15. Poster Presentation Generator Behance
 - https://www.behance.net/gallery/16522285/Free-Behance-Presentation-Builder    
 
-### 17. UI and UX Elements Referencies
-- http://ui-cloud.com/
-
 ### 16. Adobe Photoshop
   - Tutorials 
     - [How to Design a Website in Photoshop CC 2015](https://www.youtube.com/watch?v=J4TSooiuXMA&list=PLttcEXjN1UcGpnbQPBOmXssvMRTBvFELJ)
@@ -293,6 +290,9 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
       -  https://www.behance.net/gallery/33873658/Free-Print-Mock-Up-Pack-Demos
   - Plugins 
       -  [PS plugin to update social networks (cover, avatar, etc.) (not free)](http://socialkit.madebysource.com/)
+
+### 17. UI and UX Elements Referencies
+- http://ui-cloud.com/
 
 ### 18. Textures
 - http://www.textures.com/
