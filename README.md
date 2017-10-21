@@ -291,7 +291,6 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
   - Plugins 
       -  [PS plugin to update social networks (cover, avatar, etc.) (not free)](http://socialkit.madebysource.com/)
 
-
 ### 17. UI and UX Elements Referencies
 - http://ui-cloud.com/
 
@@ -418,3 +417,13 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 
 ### 44. Create Logos
 - https://studio.tailorbrands.com/
+
+### 45. Assorted Newsletters
+- Code Languages
+    - [Ruby](https://rubyweekly.com/)
+    - [Rails](https://rails-weekly.ongoodbits.com/)
+    - [Elixir](https://elixirweekly.net/)
+    - [React](http://reactjsnewsletter.com/)
+- Technology Tools
+    - [Data Base](https://dbweekly.com/)
+    - [Cafe com Caffo](http://www.cafecomocaffo.com.br/)
