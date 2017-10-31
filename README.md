@@ -54,6 +54,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 42. [Social Media Management](https://github.com/fromdenisvieira/carcara-bookmarks#42-social-media-management)
 43. [Freelancer Tips](https://github.com/fromdenisvieira/carcara-bookmarks#43-freelancer-tips)
 44. [Create Logos](https://github.com/fromdenisvieira/carcara-bookmarks#44-create-logos)
+45. [Assorted Bookmarks](https://github.com/fromdenisvieira/carcara-bookmarks#45-assorted-newsletters)
 
 
 ### 1. Verify Responsive of Website
