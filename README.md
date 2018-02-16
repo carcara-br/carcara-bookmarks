@@ -268,13 +268,14 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
     - https://wordpress.org/plugins/wp-google-maps/
 - Clojure
   - [Clojure: Linguagens funcionais no mundo real](https://www.infoq.com/br/presentations/clojure-linguagens-funcionais-no-mundo-real)
+  - [DNE 142 - Vale a pena? Clojure](https://devnaestrada.com.br/2018/02/02/vale-a-pena-clojure.html)
 - Prestashop 
 - Magento 
 - Jekyll 
 - Unity 
   - http://www.walkerboystudio.com/wbstudio/learn-unity/
   - [Project 5: Mario 3D](http://www.walkerboystudio.com/wbstudio/project-3d-mario/)
-- Android 
+- Android Development
     - [Android Studio Tips](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault/wiki)
 
 ### 10. Remote Jobs
