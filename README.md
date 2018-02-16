@@ -143,6 +143,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
   - [Create Bootstrap Landing Page + Survey + Email marketing](https://code4startup.com/projects/zero-create-landing-page-mail-chimp-woofu-viral-marketing-strategies)
 - CSS 
   - [Arquitetura CSS](https://www.youtube.com/watch?v=q8pqDytjlVc)
+  - [CSS in JavaScript: The future of component-based styling](https://medium.freecodecamp.com/css-in-javascript-the-future-of-component-based-styling-70b161a79a32)
   - Flexbox
     - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
     - http://www.flexboxdefense.com/ (gamefication)
@@ -213,9 +214,43 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - Cordova/Phonegap 
 - Ionic 
 - Polymer 
+- Progressive Web App
+  - [Progressive Web Apps (PWA) - The Complete Guide](https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf)
+  - [your-first-pwapp](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=pt-br)
+  - [Building a progressive web application with React](https://www.youtube.com/watch?v=4qpXnIAZ9Dk&list=PLYHcCSWbw4G6s7NVi2RK0TKd69PdB0sWe) [Article](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
 - ReactJS
   - [Redux+React Tutorial Series](https://www.youtube.com/playlist?list=PLcfAVClOb1Bh9TrHOAfAiB60ohBszIn3h)
   - [Build a Twitter Clone with REACTJS](https://www.udemy.com/draft/608724/learn/v4/#/)
+  - [Curso ReactJS Ninja - React + Webpack](https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf)
+  - [Learn Redux ( Wes Bos )](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
+  - [Build Your First Production Quality React App](https://egghead.io/courses/build-your-first-production-quality-react-app)
+  - [React: Component Anatomy](https://medium.com/@osanyin/react-anatomia-de-um-componente-9feabcf76928)
+  - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+  - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+  - [Redux+React Tutorial Series](https://www.youtube.com/playlist?list=PLcfAVClOb1Bh9TrHOAfAiB60ohBszIn3h)
+  - [React Tutorial (with Webpack + ES6): Build a ToDo App with Best Practices](https://www.youtube.com/watch?v=IR6smI_YJDE)
+  - [React com ES6: de Padawan a Mestre Jedi](https://skilloio.gitbooks.io/react-de-padawan-a-mestre-jedi/)
+  - [Como configurar um ambiente para desenvolvimento em React usando Webpack 2, Babel e CSS Modules](https://devheroes.io/como-configurar-ambiente-react-usando-webpack-babel-css-modules/)
+  - [TODO - React + Mobx](https://www.youtube.com/playlist?list=PL6hynR3o18zZKHc6tAvocneQjMIME0e9g)
+  - Style
+    - https://www.styled-components.com/docs/basics#react-native
+    - https://github.com/threepointone/glam
+  - Tests
+    - [Storybook](https://storybook.js.org/)
+    - https://twitter.com/orta/status/872012159856803840
+    - https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-i-snapshots-come-into-play-68ba19b1b9fe
+  - React Native
+    - [Curso de React Native - Mario Díez](https://www.youtube.com/playlist?list=PLqB3diFeF20Tjmnl8ASD4edh7r8-Qd5ep)
+    - [Build a React Native Music App tutorial, part 1](https://school.shoutem.com/lectures/build-react-native-music-app-tutorial-part1/?utm_medium=email&utm_source=newsletter&utm_campaign=rn_school&utm_content=lecture_7&utm_source=Shoutem+React+Native+school&utm_campaign=5d7944f86e-rn_school&utm_medium=email&utm_term=0_e6be1fcc38-5d7944f86e-413097565)
+    - [Tutorial: Build a crowdsourced react native Travel App with react-navigation, AsyncStorage, and Firebase](https://school.shoutem.com/lectures/tutorial-build-crowdsourced-react-native-travel-app-react-navigation-asyncstorage-firebase/?utm_medium=email&utm_source=newsletter&utm_campaign=rn_school&utm_content=lecture_9&utm_source=Shoutem+React+Native+school&utm_campaign=55fc840dc2-rn_school&utm_medium=email&utm_term=0_e6be1fcc38-55fc840dc2-413097565)
+    - [Desenvolvedor Multiplataforma Android/IOS com React e Redux](https://www.udemy.com/desenvolvedor-multiplataforma-androidios-com-react-e-redux/)
+    - [reactnativeexpress](http://www.reactnativeexpress.com/exercises)
+    - [Organizing a React Native Project](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0)
+    - [ Netflix App ](https://www.youtube.com/playlist?list=PLqB3diFeF20ThATzo4LKod0FvfGwqAsnC)
+    - [Real World React Native Animations](https://egghead.io/courses/real-world-react-native-animations)
+    - [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
+    - [React Native Fundamentals](https://egghead.io/courses/react-native-fundamentals)
+    - [Build a React Native Todo Application](https://egghead.io/courses/build-a-react-native-todo-application)
 - Joomla 
 - Wordpress
   - [Registro de Usuarios em Wordpress](https://www.youtube.com/watch?v=YRtwwN9npk8)
@@ -231,6 +266,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
     - https://wordpress.org/plugins/widget-logic/
     - http://www.webmaster.pt/plugins-wordpress-para-conteudo-pago-membros-16886.html
     - https://wordpress.org/plugins/wp-google-maps/
+- Clojure
+  - [Clojure: Linguagens funcionais no mundo real](https://www.infoq.com/br/presentations/clojure-linguagens-funcionais-no-mundo-real)
 - Prestashop 
 - Magento 
 - Jekyll 
