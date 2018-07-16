@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github.com/fromdenisvieira/carcara-angular/blob/master/carcara.jpg" width="150">
+  <img src="https://github.com/carcara-br/carcara-bookmarks/blob/master/carcara.jpg" width="150">
 </p>
 
 # Carcará Bookmarks
