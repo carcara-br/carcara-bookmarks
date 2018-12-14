@@ -54,6 +54,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 42. [Social Media Management](#42-social-media-management)
 43. [Freelancer Tips](#43-freelancer-tips)
 44. [Create Logos](#44-create-logos)
+45. [Assorted Newsletters]((#45-assorted-newsletters)
+46. [Create Music Tools](#46-create-music-tools)
 
 
 ### 1. Verify Responsive of Website
@@ -467,3 +469,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - Technology Tools
     - [Data Base](https://dbweekly.com/)
     - [Cafe com Caffo](http://www.cafecomocaffo.com.br/)
+    
+    
+### 46. Music Tools
+- [Epidemic Sound - Hand picked Royalty Free Music‎](https://www.epidemicsound.com/)
+- [Flat.io - Write your music scores online](https://flat.io/)
