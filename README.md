@@ -56,7 +56,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 44. [Create Logos](#44-create-logos)
 45. [Assorted Newsletters]((#45-assorted-newsletters)
 46. [Create Music Tools](#46-create-music-tools)
-
+47. [Create Animations](#46-create-animations)
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
@@ -470,7 +470,9 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
     - [Data Base](https://dbweekly.com/)
     - [Cafe com Caffo](http://www.cafecomocaffo.com.br/)
     
-    
 ### 46. Music Tools
 - [Epidemic Sound - Hand picked Royalty Free Music‎](https://www.epidemicsound.com/)
 - [Flat.io - Write your music scores online](https://flat.io/)
+
+### 47. Create Animations
+- [Doodly - Create Your Own Doodle Video in Just 60 Seconds](https://www.doodly.com/)
