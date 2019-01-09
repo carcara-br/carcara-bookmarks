@@ -24,7 +24,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 12. [Programming Online Courses](#12-programming-online-courses)
 13. [English Courses](#13-english-courses)
 14. [Typography](#14-typography)
-15. [Poster Presentation Generator for Behance](#15-poster-presentation-generator)
+15. [Poster Presentation Generator for Behance](#15-poster-presentation-generator-behance)
 16. [Adobe Photoshop](#16-adobe-photoshop)
 17. [UI and UX elements Referencies](#17-ui-and-ux-elements-referencies)
 18. [Textures](#18-textures)
@@ -40,7 +40,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 28. [Wireframes, Prototype and Project Presentation](#28-wireframes-prototype-and-project-presentation)
 29. [Collaborative Mind Mapping](#29-collaborative-mind-mapping)
 30. [Icons](#30-icons)
-31. [Styleguide](#31-icons)
+31. [Styleguide](#31-styleguide)
 32. [Mockups](#32-mockups)
 33. [Marketing Tools](#33-marketing-tools)
 34. [Image and Pictures Online Editor](#34-image-and-pictures-online-editor)
@@ -54,9 +54,9 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 42. [Social Media Management](#42-social-media-management)
 43. [Freelancer Tips](#43-freelancer-tips)
 44. [Create Logos](#44-create-logos)
-45. [Assorted Newsletters]((#45-assorted-newsletters)
-46. [Create Music Tools](#46-create-music-tools)
-47. [Create Animations](#46-create-animations)
+45. [Assorted Newsletters](#45-assorted-newsletters)
+46. [Music Tools](#46-music-tools)
+47. [Create Animations](#47-create-animations)
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
