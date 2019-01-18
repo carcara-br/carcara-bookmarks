@@ -57,6 +57,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 45. [Assorted Newsletters](#45-assorted-newsletters)
 46. [Music Tools](#46-music-tools)
 47. [Create Animations](#47-create-animations)
+48. [Reading Tools](#47-reading-tools)
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
@@ -284,6 +285,17 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - https://www.angieslist.com/
 - https://weworkremotely.com/
 - https://angel.co/jobs
+- [https://www.getninjas.com.br/](https://www.getninjas.com.br/)
+- [http://upwork.com](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2Fupwork.com)
+- [http://freelancer.com](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2Ffreelancer.com)
+- [http://99freelas.com.br](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2F99freelas.com.br)
+- [http://fiverr.com](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2Ffiverr.com)
+- [http://peopleperhour.com](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2Fpeopleperhour.com)
+- [http://proz.com](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2Fproz.com)
+- [http://translatorscafe.com](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2Ftranslatorscafe.com)
+- [http://workana.com/pt](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2Fworkana.com%2Fpt)
+- [http://guru.com](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2Fguru.com)
+- [http://99designs.de](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2F99designs.de)
 
 ### 11. Editors Themes
 - http://equinusocio.github.io/material-theme/ (Sublime)
@@ -476,3 +488,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 
 ### 47. Create Animations
 - [Doodly - Create Your Own Doodle Video in Just 60 Seconds](https://www.doodly.com/)
+
+### 48. Reading Tools
+- [Reading Time Calculator](https://taglivros.com/calculadora?utm_source=newsletter-leads&utm_medium=email&utm_campaign=newsletter-desafio-fluxo-email_3&utm_content=cta_01)
+- [https://12min.com](https://12min.com)
+- [http://www.instalivro.com.br/](http://www.instalivro.com.br/)
