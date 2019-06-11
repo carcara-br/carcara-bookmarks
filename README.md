@@ -57,7 +57,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 45. [Assorted Newsletters](#45-assorted-newsletters)
 46. [Music Tools](#46-music-tools)
 47. [Create Animations](#47-create-animations)
-48. [Reading Tools](#47-reading-tools)
+48. [Reading Tools](#48-reading-tools)
+49. [Download Youtube Video](#49-download-youtube-video)
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
@@ -493,3 +494,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - [Reading Time Calculator](https://taglivros.com/calculadora?utm_source=newsletter-leads&utm_medium=email&utm_campaign=newsletter-desafio-fluxo-email_3&utm_content=cta_01)
 - [https://12min.com](https://12min.com)
 - [http://www.instalivro.com.br/](http://www.instalivro.com.br/)
+
+### 49. Download Youtube Video
+- [https://www.youtubeconverter.io](https://www.youtubeconverter.io/)
+- [https://yout.com](https://yout.com/)
