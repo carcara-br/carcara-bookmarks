@@ -500,7 +500,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - [https://www.youtubeconverter.io](https://www.youtubeconverter.io/)
 - [https://yout.com](https://yout.com/)
 
-### 50. Meeting Platforms and Remote Teams Support
+### 50. Meeting Platforms
 - [Zoom](https://us04web.zoom.us/)
 - [Mural](https://mural.co/)
 - [Cuckoo](https://cuckoo.team/)
