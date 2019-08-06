@@ -298,6 +298,26 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 - [http://workana.com/pt](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2Fworkana.com%2Fpt)
 - [http://guru.com](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2Fguru.com)
 - [http://99designs.de](https://www.youtube.com/redirect?redir_token=zTH8Df3-s-mBY0WGwgMtAPH9xCV8MTU0NzA1ODY2NkAxNTQ2OTcyMjY2&event=video_description&v=4TKNWf9Yxa8&q=http%3A%2F%2F99designs.de)
+- https://www.remotestories.com/jobs
+- https://designremotely.co/
+- https://remotebase.io/
+- https://www.flexjobs.com/registration/signup
+- https://remotive.io/
+- https://www.skipthedrive.com/#browse
+- https://nodesk.co/remote-jobs/
+- https://www.workingnomads.co/remote-design-jobs
+- https://weworkremotely.com/
+- https://remoteok.io/
+- https://justremote.co/remote-design-job
+- https://dribbble.com/jobs?utf8=%E2%9C%93&category=&anywhere=true&location=Anywhere&role_type=
+- https://www.producthunt.com/jobs?remote_ok=true
+- https://angel.co/jobs
+- https://remoteok.io/
+- https://weworkremotely.com/
+- https://www.workingnomads.co/remote-design-jobs
+- https://nodesk.co/remote-jobs/
+- https://remotebase.io/
+- https://www.flexjobs.com/registration/signup
 
 ### 11. Editors Themes
 - http://equinusocio.github.io/material-theme/ (Sublime)
