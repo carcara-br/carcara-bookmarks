@@ -60,6 +60,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 48. [Reading Tools](#48-reading-tools)
 49. [Download Youtube Video](#49-download-youtube-video)
 50. [Meeting Platforms](#50-meeting-platforms)
+51. [Remote Tools ](#51-remote-tools)
+52. [Record Screen](#52-record-screen)
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
@@ -530,4 +532,8 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 ### 51. Remote Tools 
 - [remote.tools](https://www.remote.tools/)
 - [mural.co](https://mural.co/)
+
+### 52. Record Screen
+- [loom](https://www.loom.com/)
+- [soapbox](https://wistia.com/soapbox)
 
