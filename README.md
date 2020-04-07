@@ -63,6 +63,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 51. [Remote Tools ](#51-remote-tools)
 52. [Record Screen](#52-record-screen)
 53. [Email Tools](#53-email-tools)
+54. [Continuous Integration and Delivery](#53-continuos-integration-and-delivery)
 
 ### 1. Verify Responsive of Website
 - http://ami.responsivedesign.is
@@ -541,3 +542,12 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 ### 53. Email Tools
 - [Unroll.me - Clean up your inbox](https://unroll.me/)
 - [Mailtrack - Free email tracking for Gmail](https://mailtrack.io/pt/)
+
+### 54. Continuous Integration and Delivery
+- [Jenkins](https://jenkins.io/)
+- [Bitrise.io](https://www.bitrise.io/)
+- [Travis CI](https://travis-ci.com/plans)
+- [Circle CI](https://circleci.com/)
+- [GitLab CI](https://docs.gitlab.com/ee/ci/)
+- [Fastlane](https://fastlane.tools/)
+- [Buddy Build](https://www.buddybuild.com/)
