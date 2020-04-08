@@ -497,6 +497,7 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 
 ### 44. Create Logos
 - https://studio.tailorbrands.com/
+- https://pt.wix.com/logo/criar-logo
 
 ### 45. Assorted Newsletters
 - Code Languages
